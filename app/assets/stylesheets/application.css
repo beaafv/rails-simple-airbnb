@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+
+
+.cards {
+  display: flex;
+  flex-direction: row;
+  gap:20px;
+
+}
